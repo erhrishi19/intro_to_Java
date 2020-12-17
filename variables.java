@@ -1,7 +1,7 @@
 // A Java program for creating variables 
 /*
 Created by @Hrishikesh Salunkhe
- A course on Introduction to Java (Souce: Sololearn)
+
 */
 class variables{
      public static void main(String[] args) {

@@ -7,7 +7,8 @@ import java.util.Scanner;
 
 public class user_input{
     public static void main(String[] args) {
-        // Create a 
+        // Create a scanner object  
         Scanner myVar = new Scanner(System.in);
+        System.out.println(myVar.nextLine());
     }
 }

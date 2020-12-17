@@ -1,7 +1,6 @@
 // A Hello Java program to give introduction to Java
 /*
 Created by @Hrishikesh Salunkhe
- A course on Introduction to Java (Souce: Sololearn)
 */
 class hello {
     //Public means accessible fom anywhere

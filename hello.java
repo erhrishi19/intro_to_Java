@@ -1,4 +1,4 @@
-// A Hello Java program to give introduction to Java
+// A Hello Java program for introduction to Java
 /*
 Created by @Hrishikesh Salunkhe
 */
